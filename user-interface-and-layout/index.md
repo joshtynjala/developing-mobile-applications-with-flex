@@ -1,0 +1,17 @@
+# User interface and layout
+
+- [Lay out a mobile application](./lay-out-a-mobile-application.md)
+- [Handle user input in a mobile application](./handle-user-input-in-a-mobile-application.md)
+- [Define a mobile application and a splash screen](./define-a-mobile-application-and-a-splash-screen.md)
+- [Define views in a mobile application](./define-views-in-a-mobile-application.md)
+- [Define tabs in a mobile application](./define-tabs-in-a-mobile-application.md)
+- [Create multiple panes in a mobile application](./create-multiple-panes-in-a-mobile-application.md)
+- [Define navigation, title, and action controls in a mobile application](./define-navigation-title-and-action-controls-in-a-mobile-application.md)
+- [Use scroll bars in a mobile application](./use-scroll-bar-in-a-mobile-application.md)
+- [Define menus in a mobile application](./define-menus-in-a-mobile-application.md)
+- [Display the busy indicator for long-running activity in a mobile application](./display-the-busy-indicator-for-long-running-activity-in-a-mobile-application.md)
+- [Add a toggle switch to a mobile application](./add-a-toggle-switch-to-a-mobile-application.md)
+- [Add a callout container to a mobile application](./add-a-callout-container-to-a-mobile-application.md)
+- [Define transitions in a mobile application](./define-transitions-in-a-mobile-application.md)
+- [Select dates and times in a mobile application](./select-dates-and-times-in-a-mobile-application.md)
+- [Use a spinner list in a mobile application](./use-a-spinner-list-in-a-mobile-application.md)
