@@ -1,41 +1,13 @@
 # Export Android APK packages for release
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150328072526mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/ATrice.png" /></span></td>
-<td width="45%"><h3
-id="build-and-export-android-applications-for-various-android-ecosystems"><a
-href="https://www.youtube.com/watch?v=H1iUiIcbqEk">Build
-and export Android applications for various Android ecosystems</a></h3>
-<span><a
-href="https://web.archive.org/web/20150328072526mp_/http://www.tricedesigns.com/">Andrew
-Trice</a></span><br />
-<span>Workflow to develop Android applications in Flash Builder and
-export to various Android ecosystems, like Google Android Market and
-Amazon Appstore</span></td>
-<td width="5%"></td>
-<td width="45%"></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
+
+> ### ![](../img/ATrice.png) [Build and export Android applications for various Android ecosystems](https://www.youtube.com/watch?v=H1iUiIcbqEk)
+>
+> [Andrew Trice](https://web.archive.org/web/20150328072526mp_/http://www.tricedesigns.com/)
+>
+> Workflow to develop Android applications in Flash Builder and export to
+> various Android ecosystems, like Google Android Market and Amazon Appstore
 
 Before you export a mobile application, you can customize the Android
 permissions. Customize the settings manually in the application descriptor file.

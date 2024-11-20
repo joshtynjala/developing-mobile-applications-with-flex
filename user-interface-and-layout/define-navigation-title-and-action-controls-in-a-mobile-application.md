@@ -12,98 +12,26 @@ can access from anywhere in the application, or in a specific view. For example,
 you can use the ActionBar control to add a home button, a search button, or
 other options.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="3"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-</tr>
-<tr class="even">
-<td width="60%">
-</div>
-</div></td>
-<td colspan="2"><table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td width="15%"><span><img
-src="../img/BArnold.png" /></span></td>
-<td width="85%"><h3
-id="define-navigation-and-action-controls-in-your-application"><a
-href="https://www.youtube.com/watch?v=fV85ndnoCA8">Define
-navigation and action controls in your application</a></h3>
-<span>Brent Arnold</span><br />
-<span>Learn how to define the ActionBar control and other navigation
-controls in your application</span></td>
-</tr>
-<tr class="even">
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150315001716mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends-1">Adobe recommends</h2></td>
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share-1"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150315001716mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/mihaicorlan.png" /></span></td>
-<td width="45%"><h3
-id="flex-mobile-development-skinning-the-actionbar-component"><a
-href="https://web.archive.org/web/20150315001716mp_/http://corlan.org/2011/08/29/flex-mobile-development-skinning-the-actionbar-component/">Flex
-Mobile Development: skinning the ActionBar component</a></h3>
-<span>Mihai Corlan</span><br />
-<span>Describes how to style and skin the ActionBar.</span></td>
-<td width="5%"><span><img
-src="../img/HSchinsky.png" /></span></td>
-<td width="45%"><h3
-id="flex-mobile-development-tips-and-tricks-part-2-styling-your-applications-tabs-and-actionbar"><a
-href="https://web.archive.org/web/20150315001716mp_/http://www.adobe.com/devnet/flex/articles/flex-mobile-development-tips-tricks-pt2.html">Flex
-mobile development tips and tricks – Part 2: Styling your application's
-tabs and ActionBar</a></h3>
-<span>Holly Schinsky</span><br />
-<span>Describes styling the ActionBar and tab components in your mobile
-application.</span></td>
-</tr>
-</tbody>
-</table>
+> ### ![](../img/BArnold.png) [Define navigation and action controls in your application](https://www.youtube.com/watch?v=fV85ndnoCA8)
+>
+> [Brent Arnold](https://web.archive.org/web/20170816101247/http://www.tutorialsbyibrent.com/)
+>
+> Learn how to define the ActionBar control and other navigation controls in
+> your application
+
+> ### ![](../img/mihaicorlan.png) [Flex Mobile Development: skinning the ActionBar component](https://web.archive.org/web/20150315001716mp_/http://corlan.org/2011/08/29/flex-mobile-development-skinning-the-actionbar-component/)
+>
+> [Mihai Corlan](https://web.archive.org/web/20150315001716mp_/http://corlan.org/)
+>
+> Describes how to style and skin the ActionBar.
+
+> ### ![](../img/HSchinsky.png) [Flex mobile development tips and tricks – Part 2: Styling your application's tabs and ActionBar](https://web.archive.org/web/20150315001716mp_/http://www.adobe.com/devnet/flex/articles/flex-mobile-development-tips-tricks-pt2.html)
+>
+> [Holly Schinsky](https://web.archive.org/web/20160421170838/http://devgirl.org/)
+>
+> Describes styling the ActionBar and tab components in your mobile application.
 
 For a mobile application with a single section, meaning a single ViewNavigator
 container, all views share the same action bar. For a mobile application with

@@ -7,40 +7,13 @@ You can use Flash Builder to install an application directly on an Android
 device. When you install a package on a device on which Adobe AIR is not
 installed, Flash Builder installs AIR automatically.
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20160102030102mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/JStallons.png" /></span></td>
-<td width="45%"><h3
-id="article-and-video-tutorial-package-applications-for-google-android-devices"><a
-href="https://web.archive.org/web/20150811060341/http://www.adobe.com/devnet/air/articles/packaging-air-apps-android.html">Article
-and video tutorial: Package applications for Google Android
-devices</a></h3>
-<span>Jeanette Stallons</span><br />
-<span>Using Flash Builder to install applications on Google Android
-devices</span></td>
-<td width="5%"></td>
-<td width="45%"></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
+
+> ### ![](../img/JStallons.png) [Article and video tutorial: Package applications for Google Android devices](https://web.archive.org/web/20150811060341/http://www.adobe.com/devnet/air/articles/packaging-air-apps-android.html)
+>
+> [Jeanette Stallons](https://web.archive.org/web/20130528230130/http://www.stallons.com/consulting/index.html)
+>
+> Using Flash Builder to install applications on Google Android devices
 
 1.  Connect the Google Android device to your development computer.
 

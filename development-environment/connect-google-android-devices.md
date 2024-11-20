@@ -91,71 +91,14 @@ install the appropriate USB driver from your device manufacturer. See
 for links to the websites of several device manufacturers from where you can
 download the appropriate USB driver for your device.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="3"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-</tr>
-<tr class="even">
-<td width="60%"><div class="iframe">
-<div id="player" class="full-frame">
-&#10;</div>
-<div id="player-unavailable" class="ytp-error hid">
-<div id="unavailable-submessage" class="ytp-error-content">
-&#10;</div>
-</div>
-<div class="player-unavailable">
-<h1 id="an-error-occurred." class="message">An error occurred.</h1>
-<div class="submessage">
-<a
-href="https://web.archive.org/web/20150816085704/http://www.youtube.com/watch?v=KE-t2obmhpM">Try
-watching this video on www.youtube.com</a>, or enable JavaScript if it
-is disabled in your browser.
-</div>
-</div>
-</div></td>
-<td colspan="2"><table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td width="15%"><span><img
-src="../img/BArnold.png" /></span></td>
-<td width="85%"><h3
-id="troubleshooting-android-device-connections-on-windows"><a
-href="https://www.youtube.com/watch?v=KE-t2obmhpM">Troubleshooting
-Android device connections on Windows</a></h3>
-<span>Brent Arnold</span><br />
-<span>If Windows is unable to recognize the Android device connected to
-your computer, watch this video for troubleshooting tips.</span></td>
-</tr>
-<tr class="even">
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150219035517mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
+
+> ### ![](../img/BArnold.png) [Troubleshooting Android device connections on Windows](https://www.youtube.com/watch?v=KE-t2obmhpM)
+>
+> [Brent Arnold](https://web.archive.org/web/20170816101247/http://www.tutorialsbyibrent.com/)
+>
+> If Windows is unable to recognize the Android device connected to your
+> computer, watch this video for troubleshooting tips.
 
 ## Add Android USB device driver configurations
 

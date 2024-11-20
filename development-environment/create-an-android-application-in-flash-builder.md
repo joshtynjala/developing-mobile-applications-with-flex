@@ -35,56 +35,14 @@ version of AIR when you run or debug a mobile application on a device.
 
 ## Create an application
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="3"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-</tr>
-<tr class="even">
-<td width="60%">
-</div>
-</div></td>
-<td colspan="2"><table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td width="15%"><span><img
-src="../img/BArnold.png" /></span></td>
-<td width="85%"><h3 id="create-a-simple-android-application"><a
-href="https://www.youtube.com/watch?v=oJKQh7grRYc">Create
-a simple Android application</a></h3>
-<span>Brent Arnold</span><br />
-<span>Create a simple mobile application for the Android platform using
-mobile- optimized MXML components.</span></td>
-</tr>
-<tr class="even">
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150426004800mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
+
+> ### ![](../img/BArnold.png) [Create a simple Android application](https://www.youtube.com/watch?v=oJKQh7grRYc)
+>
+> [Brent Arnold](https://web.archive.org/web/20170816101247/http://www.tutorialsbyibrent.com/)
+>
+> Create a simple mobile application for the Android platform using mobile-
+> optimized MXML components.
 
 1.  In Flash Builder, select File \> New \> Flex Mobile Project.
 

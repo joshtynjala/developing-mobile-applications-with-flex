@@ -134,40 +134,14 @@ splash screen appears during application startup.
 ![](../img/byline.png) Blogger Brent Arnold
 [created a video about adding a splash screen to an Android application](https://www.youtube.com/watch?v=Cp25EShGlP4).
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150509012659mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/RenaunErickson.png" /></span></td>
-<td width="45%"><h3
-id="customizing-flex-applicationdpi-for-a-multiple-screen-size-application"><a
-href="https://web.archive.org/web/20150509012659mp_/http://renaun.com/blog/2011/10/customizing-flex-applicationdpi-for-a-multiple-screen-size-application/">Customizing
-Flex applicationDPI for a multiple screen size application</a></h3>
-<span>Renaun Erickson</span><br />
-<span>Building a Flex mobile application that works across smartphones
-and tablets takes an understanding of screen sizes, screen dots per inch
-(DPI) and screen resolutions.</span></td>
-<td width="5%"></td>
-<td width="45%"></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
+
+> ### ![](../img/RenaunErickson.png) [Customizing Flex applicationDPI for a multiple screen size application](https://web.archive.org/web/20150509012659mp_/http://renaun.com/blog/2011/10/customizing-flex-applicationdpi-for-a-multiple-screen-size-application/)
+>
+> [Renaun Erickson](https://web.archive.org/web/20150509012659mp_/http://renaun.com/blog/)
+> Building a Flex mobile application that works across smartphones and tablets
+> takes an understanding of screen sizes, screen dots per inch (DPI) and screen
+> resolutions.
 
 ### Add a splash screen from an image file
 

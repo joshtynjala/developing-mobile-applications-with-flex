@@ -4,40 +4,13 @@ Flash Builder includes a plug-in from Research In Motion (RIM) that lets you
 create and package both Flex and ActionScript applications for the BlackBerry®
 Tablet OS.
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150530174325mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/JStallons.png" /></span></td>
-<td width="45%"><h3
-id="article-and-video-tutorial-package-applications-for-blackberry-tablet-os-devices"><a
-href="https://web.archive.org/web/20120403080900/http://www.adobe.com/devnet/air/articles/packaging-air-apps-blackberry.html">Article
-and video tutorial: Package applications for BlackBerry Tablet OS
-devices</a></h3>
-<span>Jeanette Stallons</span><br />
-<span>Use Flash Builder to deploy applications on BlackBerry Tablet OS
-devices</span></td>
-<td width="5%"></td>
-<td width="45%"></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
+
+> ### ![](../img/JStallons.png) [Article and video tutorial: Package applications for BlackBerry Tablet OS devices](https://web.archive.org/web/20120403080900/http://www.adobe.com/devnet/air/articles/packaging-air-apps-blackberry.html)
+>
+> [Jeanette Stallons](https://web.archive.org/web/20130528230130/http://www.stallons.com/consulting/index.html)
+>
+> Use Flash Builder to deploy applications on BlackBerry Tablet OS devices
 
 ## Create an application
 

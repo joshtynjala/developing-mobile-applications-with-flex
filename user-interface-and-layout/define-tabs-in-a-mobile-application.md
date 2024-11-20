@@ -1,40 +1,14 @@
 # Define tabs in a mobile application
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150219043719mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/StevenShongrunden.png" /></span></td>
-<td width="45%"><h3
-id="enable-scrolling-in-the-tab-bar-of-a-tabbedviewnavigator"><a
-href="https://web.archive.org/web/20150219043719mp_/http://flexponential.com/2011/10/23/enable-scrolling-in-the-tab-bar-of-a-tabbedviewnavigator/">Enable
-Scrolling in the tab bar of a TabbedViewNavigator</a></h3>
-<span>Steven Shongrunden</span><br />
-<span>The default tab bar in a TabbedViewNavigator sizes its buttons to
-fit them all onto the screen at once, truncating when necessary. This
-post shows how to create a custom skin that allows horizontal scrolling
-to reveal buttons off screen.</span></td>
-<td width="5%"></td>
-<td width="45%"></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
+
+> ### ![](../img/StevenShongrunden.png) [Enable Scrolling in the tab bar of a TabbedViewNavigator](https://web.archive.org/web/20150219043719mp_/http://flexponential.com/2011/10/23/enable-scrolling-in-the-tab-bar-of-a-tabbedviewnavigator/)
+>
+> [Steven Shongrunden](https://web.archive.org/web/20150219043719mp_/http://flexponential.com/)
+> The default tab bar in a TabbedViewNavigator sizes its buttons to fit them all
+> onto the screen at once, truncating when necessary. This post shows how to
+> create a custom skin that allows horizontal scrolling to reveal buttons off
+> screen.
 
 ## Define the sections of an application
 
@@ -98,39 +72,13 @@ data between tabs in a mobile application in
 video2brain at
 [Creating a Tabbed View Navigator Application](https://web.archive.org/web/20150219043719mp_/http://www.video2brain.com/en/videos-5839.htm).
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends-1">Adobe recommends</h2></td>
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share-1"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150219043719mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/HSchinsky.png" /></span></td>
-<td width="45%"><h3
-id="tabbed-applications-with-effects-ontab-change"><a
-href="https://web.archive.org/web/20150219043719mp_/http://devgirl.org/2011/08/22/flex-mobile-development-tabbed-applications-with-effects-on-tab-change/">Tabbed
-Applications with Effects onTab Change</a></h3>
-<span>Holly Schinsky</span><br />
-<span>Describes how to apply effects when changing tabs in a
-TabbedViewNavigator.</span></td>
-<td width="5%"></td>
-<td width="45%"></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
+
+> ### ![](../img/HSchinsky.png) [Tabbed Applications with Effects onTab Change](https://web.archive.org/web/20150219043719mp_/http://devgirl.org/2011/08/22/flex-mobile-development-tabbed-applications-with-effects-on-tab-change/)
+>
+> [Holly Schinsky](https://web.archive.org/web/20160421170838/http://devgirl.org/)
+>
+> Describes how to apply effects when changing tabs in a TabbedViewNavigator.
 
 ## Handle section change events
 

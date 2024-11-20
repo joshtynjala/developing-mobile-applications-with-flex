@@ -7,90 +7,20 @@ container defines a menu at the bottom of a
 container in a mobile application. Each View container defines its own menu
 specific to that view.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="3"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-</tr>
-<tr class="even">
-<td width="60%">
-</div>
-</div></td>
-<td colspan="2"><table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td width="15%"><span><img
-src="../img/BArnold.png" /></span></td>
-<td width="85%"><h3
-id="defining-a-viewmenu-container-for-a-mobile-application"><a
-href="https://www.youtube.com/watch?v=1_DkiuNLNm8">Defining
-a ViewMenu container for a mobile application</a></h3>
-<span>Brent Arnold</span><br />
-<span>Learn how to define a ViewMenu container and see how the menu
-appears on an Android device</span></td>
-</tr>
-<tr class="even">
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20141129042323mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends-1">Adobe recommends</h2></td>
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share-1"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20141129042323mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/HSchinsky.png" /></span></td>
-<td width="45%"><h3 id="using-a-viewmenu-container-with-custom-skins"><a
-href="https://web.archive.org/web/20160420160353/http://devgirl.org/2011/05/04/using-menus-in-your-flex-4-5-mobile-application/">Using
-a ViewMenu container with custom skins</a></h3>
-<span>Holly Schinsky</span><br />
-<span>Learn how to define custom skins for a ViewMenu
-container</span></td>
-<td width="5%"></td>
-<td width="45%"></td>
-</tr>
-</tbody>
-</table>
+> ### ![](../img/BArnold.png) [Defining a ViewMenu container for a mobile application](https://www.youtube.com/watch?v=1_DkiuNLNm8)
+>
+> [Brent Arnold](https://web.archive.org/web/20170816101247/http://www.tutorialsbyibrent.com/)
+>
+> Learn how to define a ViewMenu container and see how the menu appears on an
+> Android device
+
+> ### ![](../img/HSchinsky.png) [Using a ViewMenu container with custom skins](https://web.archive.org/web/20160420160353/http://devgirl.org/2011/05/04/using-menus-in-your-flex-4-5-mobile-application/)
+>
+> [Holly Schinsky](https://web.archive.org/web/20160420160353/http://devgirl.org/)
+>
+> Learn how to define custom skins for a ViewMenu container
 
 The following figure shows the ViewMenu container in an application:
 

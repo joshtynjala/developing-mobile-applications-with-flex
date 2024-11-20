@@ -14,38 +14,14 @@ mobile application:
 and
 [Callout](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/spark/components/Callout.html).
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150212015829mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/HSchinsky.png" /></span></td>
-<td width="45%"><h3 id="callout-component-sample"><a
-href="https://web.archive.org/web/20150212015829mp_/http://devgirl.org/2011/10/17/flex-mobile-development-callout-component-sample-with-source/">Callout
-Component Sample</a></h3>
-<span>Holly Schinsky</span><br />
-<span>Describes how to use the Callout container to define a pop-up
-container for your mobile application.</span></td>
-<td width="5%"></td>
-<td width="45%"></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
+
+> ### ![](../img/HSchinsky.png) [Callout Component Sample](https://web.archive.org/web/20150212015829mp_/http://devgirl.org/2011/10/17/flex-mobile-development-callout-component-sample-with-source/)
+>
+> [Holly Schinsky](https://web.archive.org/web/20160421170838/http://devgirl.org/)
+>
+> Describes how to use the Callout container to define a pop-up container for
+> your mobile application.
 
 ## Use the CalloutButton control to create a callout container
 

@@ -8,40 +8,14 @@ implement support for new styles, or add or remove child components to the skin.
 You typically start with the source code of an existing skin and save it as a
 new class.
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150319055419mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/JSanHose.png" /></span></td>
-<td width="45%"><h3 id="creating-skins-for-flex-mobile-applications"><a
-href="https://web.archive.org/web/20151002222046/http://www.adobe.com/devnet/flex/articles/mobile-skinning-part1.html">Creating
-skins for Flex mobile applications</a></h3>
-<span><a
-href="https://web.archive.org/web/20150319055419mp_/http://blogs.adobe.com/jasonsj/">Jason
-San Jose</a></span><br />
-<span>Read through this article-series to learn about mobile-optimized
-skinning and handling of different pixel densities </span></td>
-<td width="5%"></td>
-<td width="45%"></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
+
+> ### ![](../img/JSanHose.png) [Creating skins for Flex mobile applications](https://web.archive.org/web/20151002222046/http://www.adobe.com/devnet/flex/articles/mobile-skinning-part1.html)
+>
+> [Jason San Jose](https://web.archive.org/web/20150319055419mp_/http://blogs.adobe.com/jasonsj/)
+>
+> Read through this article-series to learn about mobile-optimized skinning and
+> handling of different pixel densities
 
 You can also edit the assets used by mobile skins to change the visual
 properties of the skin, such as size, color, or gradients and backgrounds. In

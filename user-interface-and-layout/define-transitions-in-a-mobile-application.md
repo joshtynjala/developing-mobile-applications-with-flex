@@ -12,91 +12,18 @@ example, your application defines a form in a View container that shows only a
 few fields, but a subsequent View container shows additional fields. Rather than
 sliding from view to view, you can use a flip or fade transition.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="3"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-</tr>
-<tr class="even">
-<td width="60%">
-</div>
-</div></td>
-<td colspan="2"><table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td width="15%"><span><img
-src="../img/BArnold.png" /></span></td>
-<td width="85%"><h3
-id="define-view-transitions-in-a-mobile-application"><a
-href="https://www.youtube.com/watch?v=An7EiUmYfl4">Define
-view transitions in a mobile application</a></h3>
-<span>Brent Arnold</span><br />
-<span>Learn how to define transitions in a mobile application
-</span></td>
-</tr>
-<tr class="even">
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150222020256mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends-1">Adobe recommends</h2></td>
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share-1"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150222020256mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/HSchinsky.png" /></span></td>
-<td width="45%"><h3
-id="article-and-video-customizing-mobile-view-transitions"><a
-href="https://web.archive.org/web/20111008172604/http://devgirl.org/2011/05/12/flex-4-5-using-mobile-view-transitions/">Article
-and video: Customizing mobile view transitions</a></h3>
-<span>Holly Schinsky</span><br />
-<span>Learn how to customize transitions using the Flex view transition
-classes</span></td>
-<td width="5%"></td>
-<td width="45%"></td>
-</tr>
-</tbody>
-</table>
+> ### ![](../img/BArnold.png) [Define view transitions in a mobile application](https://www.youtube.com/watch?v=An7EiUmYfl4)
+>
+> [Brent Arnold](https://web.archive.org/web/20170816101247/http://www.tutorialsbyibrent.com/)
+>
+> Learn how to define transitions in a mobile application
+
+> ### ![](../img/HSchinsky.png) [Article and video: Customizing mobile view transitions](https://web.archive.org/web/20111008172604/http://devgirl.org/2011/05/12/flex-4-5-using-mobile-view-transitions/)
+>
+> [Holly Schinsky](https://web.archive.org/web/20160421170838/http://devgirl.org/)
+> Learn how to customize transitions using the Flex view transition classes
 
 Flex supplies the following view transition classes that you can use when
 changing View containers:

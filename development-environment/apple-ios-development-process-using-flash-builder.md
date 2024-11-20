@@ -4,41 +4,14 @@ Before developing an iOS application using Flash Builder, it is important to
 understand the iOS development process and how to obtain the required
 certificates from Apple.
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150321023249mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/ATrice.png" /></span></td>
-<td width="45%"><h3
-id="developing-apple-ios-applications-in-flash-builder"><a
-href="https://web.archive.org/web/20150314060546/http://tv.adobe.com/watch/adc-presents/build-ios-applications-using-flex-and-flash-builder-453">Developing
-Apple iOS applications in Flash Builder</a></h3>
-<span><a
-href="https://web.archive.org/web/20150321023249mp_/http://www.tricedesigns.com/">Andrew
-Trice</a></span><br />
-<span>Workflow to develop iOS applications - from development in Flash
-Builder to publishing in Apple's App Store</span></td>
-<td width="5%"></td>
-<td width="45%"></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
+
+> ### ![](../img/ATrice.png) [Developing Apple iOS applications in Flash Builder](https://web.archive.org/web/20150314060546/http://tv.adobe.com/watch/adc-presents/build-ios-applications-using-flex-and-flash-builder-453)
+>
+> [Andrew Trice](https://web.archive.org/web/20150321023249mp_/http://www.tricedesigns.com/)
+>
+> Workflow to develop iOS applications - from development in Flash Builder to
+> publishing in Apple's App Store
 
 ## Overview of the iOS development and deployment process
 

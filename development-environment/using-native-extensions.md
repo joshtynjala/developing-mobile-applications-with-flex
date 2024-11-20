@@ -8,40 +8,13 @@ implementation lets you access device-specific features, which cannot be
 accessed using pure ActionScript classes. For example, accessing the device's
 vibration functionality.
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150301200240mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/OGoldman.png" /></span></td>
-<td width="45%"><h3 id="article-extending-adobe-air"><a
-href="https://web.archive.org/web/20150323134348/http://www.adobe.com/devnet/air/articles/extending-air.html#articlecontentAdobe_numberedheader_4">Article:
-Extending Adobe AIR</a></h3>
-<span><a
-href="https://web.archive.org/web/20150301200240mp_/http://blogs.adobe.com/simplicity/">Oliver
-Goldman</a></span><br />
-<span>Learn more about creating, using, and packaging native
-extensions</span></td>
-<td width="5%"></td>
-<td width="45%"></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
+
+> ### ![](../img/OGoldman.png) [Article: Extending Adobe AIR](https://web.archive.org/web/20150323134348/http://www.adobe.com/devnet/air/articles/extending-air.html#articlecontentAdobe_numberedheader_4)
+>
+> [Oliver Goldman](https://web.archive.org/web/20150301200240mp_/http://blogs.adobe.com/simplicity/)
+>
+> Learn more about creating, using, and packaging native extensions
 
 Native code implementation can be defined as the code that executes outside the
 AIR runtime. You define platform-specific ActionScript classes and native code

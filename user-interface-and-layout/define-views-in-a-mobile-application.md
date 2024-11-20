@@ -16,106 +16,30 @@ use the
 [ViewNavigator](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/spark/components/ViewNavigator.html)
 container.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="3"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-</tr>
-<tr class="even">
-<td width="60%"><div class="iframe">
-<div id="player" class="player">
-<div class="fallback">
-&#10;</div>
-</div>
-</div>
-<p><a
-href="http://vimeo.com/22138436">Mobile
-application development in Flash Builder 4.5</a> from <a
-href="https://web.archive.org/web/20150219043729mp_/http://vimeo.com/peterelst">Peter
-Elst</a> on <a
-href="https://web.archive.org/web/20150219043729mp_/http://vimeo.com/">Vimeo</a>.</p></td>
-<td colspan="2"><table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td width="15%"><span><img
-src="../img/PElst.png" /></span></td>
-<td width="85%"><h3
-id="create-a-mobile-application-with-multiple-views"><a
-href="http://vimeo.com/22138436">Create
-a mobile application with multiple views</a></h3>
-<span>Peter Elst </span><br />
-<span>Learn how to create a data-driven Flex mobile application with
-multiple views </span></td>
-</tr>
-<tr class="even">
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150219043729mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends-1">Adobe recommends</h2></td>
-<td colspan="2"><h3 id="have-a-tutorial-you-would-like-to-share-1"><img
-src="../img/TinyBlueTutIcon.png" /><a
-href="https://web.archive.org/web/20150219043729mp_/http://www.adobe.com/community/publishing/download.html">Have
-a tutorial you would like to share?</a></h3></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/HSchinsky.png" /></span></td>
-<td width="45%"><h3 id="handling-data-while-switching-between-views"><a
-href="https://web.archive.org/web/20130817134922/http://devgirl.org/2011/05/18/flex-4-5-mobile-data-handling/">Handling
-data while switching between views</a></h3>
-<span>Holly Schinsky </span><br />
-<span>Learn how to handle data while navigating between views in your
-mobile application</span></td>
-<td width="5%"><span><img
-src="../img/peterwitham.png" /></span></td>
-<td width="45%"><h3
-id="adobe-flex-mobile-applications-passing-data-between-views"><a
-href="https://web.archive.org/web/20150219043729mp_/http://www.uibuzz.com/2011/adobe/adobe-flex-mobile-applications-passing-data-between-views/">Adobe
-Flex Mobile applications – passing data between views</a></h3>
-<span>Peter Witham</span><br />
-<span>A video that shows how simple and quick it is to pass data between
-views.</span></td>
-</tr>
-</tbody>
-</table>
+> ## ![](../img/PElst.png) [Mobile application development in Flash Builder 4.5](http://vimeo.com/22138436)
+>
+> [Peter Elst](https://vimeo.com/peterelst)
+
+> ### ![](../img/PElst.png) [Create a mobile application with multiple views](http://vimeo.com/22138436)
+>
+> [Peter Elst](https://vimeo.com/peterelst)
+>
+> Learn how to create a data-driven Flex mobile application with multiple views
+
+> ### ![](../img/HSchinsky.png) [Handling data while switching between views](https://web.archive.org/web/20130817134922/http://devgirl.org/2011/05/18/flex-4-5-mobile-data-handling/)
+>
+> [Holly Schinsky](https://web.archive.org/web/20160421170838/http://devgirl.org/)
+>
+> Learn how to handle data while navigating between views in your mobile
+> application
+
+> ### ![](../img/peterwitham.png) [Adobe Flex Mobile applications – passing data between views](https://web.archive.org/web/20150219043729mp_/http://www.uibuzz.com/2011/adobe/adobe-flex-mobile-applications-passing-data-between-views/)
+>
+> [Peter Witham](https://web.archive.org/web/20150909135805/http://uibuzz.com/)
+>
+> A video that shows how simple and quick it is to pass data between views.
 
 ## Use pushView() to change views
 

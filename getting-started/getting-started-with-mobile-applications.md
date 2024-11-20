@@ -13,53 +13,13 @@ Flash Builder has also been updated to add new features to support application
 development for mobile devices. With Flash Builder, you can develop, test, and
 debug applications on the desktop, or directly on your mobile device.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="3"><h2 id="adobe-recommends">Adobe recommends</h2></td>
-</tr>
-<tr class="even">
-<td width="60%">
-</div>
-</div></td>
-<td colspan="2"><table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td width="15%"><span><img
-src="../img/Serge_Jespers.png" /></span></td>
-<td width="85%"><h3
-id="build-your-first-mobile-application-in-flash-builder"><a
-href="https://web.archive.org/web/20130209061042/http://tv.adobe.com/watch/adc-presents/build-your-first-mobile-application-in-flash-builder-45/t">Build
-your first mobile application in Flash Builder</a></h3>
-<span><a
-href="https://web.archive.org/web/20150219043724mp_/http://www.webkitchen.be/">Serge
-Jespers</a></span><br />
-<span>Build and deploy mobile apps in just a few minutes with Flash
-Builder.</span></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
+
+> ### ![](../img/Serge_Jespers.png) [Adobe TV: Build your first mobile application in Flash Builder](https://web.archive.org/web/20130209061042/http://tv.adobe.com/watch/adc-presents/build-your-first-mobile-application-in-flash-builder-45/t) <a
+>
+> [Serge Jespers](https://web.archive.org/web/20150219043724mp_/http://www.webkitchen.be/)
+>
+> Build and deploy mobile apps in just a few minutes with Flash Builder.
 
 ![](../img/byline.png) Adobe Evangelist Mark Doherty posted a video about
 [building applications for the desktop, mobile phones, and tablets](https://web.archive.org/web/20120612204637/http://tv.adobe.com/watch/adc-presents/applications-for-the-web-desktop-and-mobile/).
@@ -73,45 +33,20 @@ Builder.</span></td>
 ![](../img/byline.png) Flash developer Fabio Biondi
 [created an AIR-based YouTube Player for Android devices using Flash Builder](https://web.archive.org/web/20130207160626/http://www.fabiobiondi.com/blog/2011/04/create-a-youtube-player-for-android-using-flash-builder-45/).
 
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="2"><h2 id="adobe-recommends-1">Adobe recommends</h2></td>
-<td colspan="2"></td>
-</tr>
-<tr class="even">
-<td colspan="4" height="10"></td>
-</tr>
-<tr class="odd">
-<td width="5%"><span><img
-src="../img/Narciso_Jaramillo.png" /></span></td>
-<td width="45%"><h3
-id="mobile-development-using-adobe-flex-sdk-and-flash-builder"><a
-href="https://web.archive.org/web/20130209104903/http://www.adobe.com/devnet/flex/articles/mobile-development-flex-flashbuilder.html">Mobile
-development using Adobe Flex SDK and Flash Builder</a></h3>
-<span><a
-href="https://web.archive.org/web/20150219043724mp_/http://www.rictus.com/muchado/">NJ</a></span><br />
-<span>Adobe Product Designer NJ helps you create the TwitterTrends
-mobile application.</span></td>
-<td width="5%"><span><img
-src="../img/Holly_Schinsky_sm.png" /></span></td>
-<td width="45%"><h3 id="flash-builder---mobile-highlights"><a
-href="https://web.archive.org/web/20130119045350/http://devgirl.org/2011/04/11/flash-builder-4-5-mobile-highlights/">Flash
-Builder - Mobile Highlights</a></h3>
-<span><a
-href="https://web.archive.org/web/20150219043724mp_/http://devgirl.org/">Holly
-Schinsky</a></span><br />
-<span>Holly Schinsky guides you through Flash Builder mobile
-highlights.</span></td>
-</tr>
-</tbody>
-</table>
+## Adobe recommends
+
+> ### ![](../img/Narciso_Jaramillo.png) [Mobile development using Adobe Flex SDK and Flash Builder](https://web.archive.org/web/20130209104903/http://www.adobe.com/devnet/flex/articles/mobile-development-flex-flashbuilder.html)
+>
+> [NJ](https://web.archive.org/web/20150219043724mp_/http://www.rictus.com/muchado/)
+>
+> Adobe Product Designer NJ helps you create the TwitterTrends mobile
+> application.
+
+> ### ![](../img/Holly_Schinsky_sm.png) [Flash Builder - Mobile Highlights](https://web.archive.org/web/20130119045350/http://devgirl.org/2011/04/11/flash-builder-4-5-mobile-highlights/)
+>
+> [Holly Schinsky](https://web.archive.org/web/20160421170838/http://devgirl.org/)
+>
+> Holly Schinsky guides you through Flash Builder mobile highlights.
 
 ## Design a mobile application
 
