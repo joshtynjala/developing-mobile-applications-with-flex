@@ -41,7 +41,7 @@ section defines its own action bar.
 Use the ActionBar control to define the action bar area. The ActionBar control
 defines three distinct areas, as the following figure shows:
 
-<p><i>Image Missing: fmc_action_bar_fmc.png</i></p>
+![](../img/fmc_action_bar_fmc.png)
 
 **A**. Navigation area **B**. Title area **C**. Action area
 

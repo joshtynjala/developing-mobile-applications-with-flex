@@ -9,7 +9,7 @@ progress.
 The following figure shows the BusyIndicator control in the control bar area of
 a Spark Panel container, next to the Submit button:
 
-<p><i>Image Missing: bi_busy_indicator_bi.png</i></p>
+![](../img/bi_busy_indicator_bi.png)
 
 Make the BusyIndicator control visible while a long-running operation is in
 progress. When the operation is complete, hide the control.

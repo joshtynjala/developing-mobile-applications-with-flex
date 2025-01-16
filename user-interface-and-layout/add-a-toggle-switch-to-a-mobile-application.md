@@ -10,7 +10,7 @@ All of these controls let you choose between a selected and an unselected value.
 
 The following image shows the ToggleSwitch control in an application:
 
-<p><i>Image Missing: ts_toggleSwitch_ts.png</i></p>
+![](../img/ts_toggleSwitch_ts.png)
 
 The ToggleSwitch control has two positions: selected and unselected. The control
 is in the unselected position when the thumb is to the left. The selected

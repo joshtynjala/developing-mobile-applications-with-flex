@@ -9,7 +9,7 @@ showing a different part of the date and/or time.
 There are three basic types of DateSpinner controls that you can use. The
 following figure shows the three types of DateSpinner controls:
 
-<p><i>Image Missing: main_types.png</i></p>
+![](../img/main_types.png)
 
 A. Date. B. Time. C. Date and Time
 

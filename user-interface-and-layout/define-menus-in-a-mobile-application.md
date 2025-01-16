@@ -24,7 +24,7 @@ specific to that view.
 
 The following figure shows the ViewMenu container in an application:
 
-<p><i>Image Missing: vm_open_menu_vm.png</i></p>
+![](../img/vm_open_menu_vm.png)
 
 The ViewMenu container defines a menu with a single hierarchy of menu buttons.
 That is, you cannot create menus with submenus.

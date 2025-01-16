@@ -16,7 +16,7 @@ mobile application could have three views:
 The following image shows the main screen of a simple mobile application built
 in Flex:
 
-<p><i>Image Missing: fmc_single_section_fmc.png</i></p>
+![](../img/fmc_single_section_fmc.png)
 
 **A.** ActionBar control **B.** Content area
 
@@ -47,7 +47,7 @@ sections so that you do not have to define the same view multiple times.
 The following figure shows a mobile application that includes a tab bar at the
 bottom of the application window:
 
-<p><i>Image Missing: fmc_sections_fmc.png</i></p>
+![](../img/fmc_sections_fmc.png)
 
 **A.** ActionBar control **B.** Content area **C.** Tab bar
 
@@ -64,7 +64,21 @@ section.
 
 The following figure shows the architecture of a simple mobile application:
 
-<p><i>Image Missing: fmc_single_section_diagram_fmc.png</i></p>
+```
+Main application (ViewNavigatorApplication)
+      |
+      |
+      --- (ViewNavigator)
+                |
+                |
+                --- Home (View)
+                |
+                |
+                --- Contacts (View)
+                |
+                |
+                --- Search (View)
+```
 
 The figure shows an application made up of four files. A mobile application
 contains a main application file, and one file for each view. There is no
@@ -171,7 +185,21 @@ A mobile application can collect related views in different sections of the
 application. For example, the following figure shows the organization of a
 mobile application with three sections.
 
-<p><i>Image Missing: fmc_section_diagram_fmc.png</i></p>
+```
+            Main application (TabbedViewNavigatorApplication)
+                                    |
+                           (TabbedViewNavigator)
+                                    |
+    -----------------------------------------------------------------------
+    |					              |                                   |
+Contacts (ViewNavigator)     Email (ViewNavigator)             Favorites (ViewNavigator)
+    |                                 |                                   |
+    --- Contacts Home (View)          --- Email Home (View)               --- Favorites Home (View)
+    |                                 |                                   |
+    --- Edit Contacts (View)          --- Edit Contacts (View)            --- Search (View)
+    |                                 |
+    --- Search (View)                 --- Search (View)
+```
 
 Any section can use any
 [View](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/spark/components/View.html).
@@ -323,7 +351,7 @@ The following figure shows two views. To change the current view, use the
 view onto the stack. The `pushView()` method causes the ViewNavigator to switch
 the display to the new View object.
 
-<p><i>Image Missing: fmc_push_pop_fmc.png</i></p>
+![](../img/fmc_push_pop_fmc.png)
 
 Push and pop View objects to change views.
 
@@ -347,7 +375,7 @@ In the following figure, the Views are arranged in multiple sections. A
 different ViewNavigator container defines each section. Within each section are
 one or more views:
 
-<p><i>Image Missing: fmc_sections_fmc.png</i></p>
+![](../img/fmc_sections_fmc.png)
 
 **A.** ActionBar **B.** Content area **C.** Tab bar
 
